@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        com.taoensso/nippy {:mvn/version "3.3.0"}
+        manifold/manifold {:mvn/version "0.4.1"}
+        aleph/aleph {:mvn/version "0.7.0-rc1"}
+        kahdemlia/kahdemlia {:local/root "../kahdemlia"}}}
